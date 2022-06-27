@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivylu7
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning python
+- 👀 I’m interested in software engineering or data science!
+- 🌱 I’m currently learning javascript!
 - 💞️ I’m looking to collaborate on any beginner projects
 - 📫 How to reach me @ivylu21122@gmail.com
 
